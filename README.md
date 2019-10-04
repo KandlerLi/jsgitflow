@@ -1,0 +1,1 @@
+Minimal tool to create a release
