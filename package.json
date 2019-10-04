@@ -1,5 +1,5 @@
 {
-  "name": "@kandler-li/jsgitflow",
+  "name": "@kandlerli/jsgitflow",
   "version": "0.2.0-SNAPSHOT",
   "description": "Minimal tool to create a release",
   "main": "index.js",
